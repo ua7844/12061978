@@ -1,1 +1,4 @@
-
+#EXTM3U
+#EXTINF:0,TRT 1 
+#EXTVLCOPT:http-referrer=https://www.elahmad.to/tv/live/channels.php?id=442
+https://www.elahmad.to/tv
